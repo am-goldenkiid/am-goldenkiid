@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @am-goldenkiid
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Web Development
-- 💞️ I’m looking to collaborate on any Front-end Web Development Projects
-- 📫 How to reach me = [{skype: 'live:amienghemenchristian948', 'linkedin: https://www.linkedin.com/in/christian-amienghemen-b07201242/'}]
+<p align="center"><img src="https://media.giphy.com/media/I6wUi5eTdUCWI/giphy.gif"/></p>
+- 👋 Hi, I’m @am-goldenkiid <br/>
+- 👀 I’m interested in Web Development <br/>
+- 🌱 I’m currently learning Backend Web Development <br/>
+- 💞️ I’m looking to collaborate on any Front-end Web Development Projects <br/>
+- 📫 How to reach me = [{skype: 'live:amienghemenchristian948', 'linkedin: https://www.linkedin.com/in/christian-amienghemen-b07201242/'}] <br/>
 <h2>Tools I work with</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 />
